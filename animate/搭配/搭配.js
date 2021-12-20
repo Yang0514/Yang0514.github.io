@@ -613,8 +613,8 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/搭配_atlas_1.png?1639967999668", id:"搭配_atlas_1"},
-		{src:"images/搭配_atlas_2.png?1639967999669", id:"搭配_atlas_2"}
+		{src:"images/搭配_atlas_1.png?1639968586829", id:"搭配_atlas_1"},
+		{src:"images/搭配_atlas_2.png?1639968586829", id:"搭配_atlas_2"}
 	],
 	preloads: []
 };
